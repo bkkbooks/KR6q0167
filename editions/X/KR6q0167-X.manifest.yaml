@@ -1,0 +1,138 @@
+canonical_identifier: bkk:krp/KR6q0167/X/v1
+canonical_location: https://kanripo.org/bkk/KR6q0167/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 五宗原
+  identifiers:
+    krp: KR6q0167
+    cbeta: X65n1279
+    cbeta_old_id: X65n1279
+    authorityid: CA0003500
+    json_key: X1279
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X65/X65n1279.xml
+    old_id: X65n1279
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0167_000-X.yaml, hash: 'sha256:42c48379f3958f1a62ab41664ba0e131a6dee570728941edf6f36f2aaeca1233'}
+  - {seq: 1, filename: KR6q0167_001-X.yaml, hash: 'sha256:5d5311ff922c337a11d0cd2aa016f1e147f7275eabc4c378205887a10e2fa062'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6q0167_000-X.markers.yaml, hash: 'sha256:c4ccacbce66326e00a96aa80dc89f9fd4580dbd2126a9ee6e705610b693a24fa'}
+  - {seq: 1, role: markers, filename: assets/KR6q0167_001-X.markers.yaml, hash: 'sha256:3c760a854074e42376b40a01602afc134122baec51a9b3d4e60016bade65cd7f'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6q0167_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 1279-A 五宗原序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0167_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 11007
+  label: 五宗原
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0167_X_001-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 臨濟宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0167_X_001-mulu-2
+    span:
+    - body
+    - 2014
+    - 2014
+  label: 兩脉合宗其來有據
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0167_X_001-mulu-3
+    span:
+    - body
+    - 2446
+    - 2446
+  label: 雲門宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0167_X_001-mulu-4
+    span:
+    - body
+    - 2672
+    - 2672
+  label: 溈仰宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0167_X_001-mulu-5
+    span:
+    - body
+    - 2787
+    - 2787
+  label: 法眼宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0167_X_001-mulu-6
+    span:
+    - body
+    - 3485
+    - 3485
+  label: 曹洞宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0167_X_001-mulu-7
+    span:
+    - body
+    - 6008
+    - 6008
+  label: 總結
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0167_X_001-mulu-8
+    span:
+    - body
+    - 6615
+    - 6615
+  label: 傳衣法註
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0167_X_001-mulu-9
+    span:
+    - body
+    - 7935
+    - 7935
+  label: No. 1279-B 濟宗頌語(附)
+  type: mulu
+  level: 1
+hash: sha256:5d695e357d88041babf38060f23d3aa4bce9c8873810790b8b0ae0123b397c63
