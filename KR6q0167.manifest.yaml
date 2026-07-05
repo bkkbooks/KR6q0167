@@ -21,11 +21,11 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0167_000.yaml, hash: 'sha256:1e75bb8b0b754e0039268b4e16f7c4687a811bd79d72933ae5959c16e5d7d7dd'}
-  - {seq: 1, filename: KR6q0167_001.yaml, hash: 'sha256:d2f8d4531ce634ea8bad13074450c99f2d4eb0194d4a024d0f51fa9aa11d6e55'}
+  - {seq: 0, filename: KR6q0167_000.yaml, hash: 'sha256:42c48379f3958f1a62ab41664ba0e131a6dee570728941edf6f36f2aaeca1233'}
+  - {seq: 1, filename: KR6q0167_001.yaml, hash: 'sha256:5d5311ff922c337a11d0cd2aa016f1e147f7275eabc4c378205887a10e2fa062'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0167_000.markers.yaml, hash: 'sha256:20d3be918005b3a8bac1dab40673b3b21c1ddd0c26b6f540a143d032f25ad565'}
-  - {seq: 1, role: markers, filename: assets/KR6q0167_001.markers.yaml, hash: 'sha256:9cc1f02913158d4704b166d9b00b515bcfd01c8f3fb6f770f7eb8355fe3acec0'}
+  - {seq: 0, role: markers, filename: assets/KR6q0167_000.markers.yaml, hash: 'sha256:0fc646887c25571f3c8d5a739ae3cc510d57f2124fc1b93f2b6cc37c32448e2d'}
+  - {seq: 1, role: markers, filename: assets/KR6q0167_001.markers.yaml, hash: 'sha256:8c7c8680bcd9ac6064e0224ebc51f02d3a7e13a3b6d5dd2f9277e401e178ab9e'}
 table_of_contents:
 - ref:
     seq: 0
@@ -137,7 +137,4 @@ table_of_contents:
   label: No. 1279-B 濟宗頌語(附)
   type: mulu
   level: 1
-hash: sha256:4811fe45839849c5d1e9fbe86b666ecee010231c672ca19c6784fa77d0ac7f60
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:fa845e2d291f4dab29c24bfef932ae1d7b6c0f07e67bce88ab8ee07a3fb7ba88
