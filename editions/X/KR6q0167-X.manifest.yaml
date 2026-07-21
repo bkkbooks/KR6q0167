@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0167_000-X.yaml, hash: 'sha256:42c48379f3958f1a62ab41664ba0e131a6dee570728941edf6f36f2aaeca1233'}
+  - {seq: 0, filename: KR6q0167_000-X.yaml, hash: 'sha256:d994e73efc53d4268ed2b69048e8b499c0738ea3913ea9cd4f1e775fd0e8f240'}
   - {seq: 1, filename: KR6q0167_001-X.yaml, hash: 'sha256:5d5311ff922c337a11d0cd2aa016f1e147f7275eabc4c378205887a10e2fa062'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0167_000-X.markers.yaml, hash: 'sha256:c4ccacbce66326e00a96aa80dc89f9fd4580dbd2126a9ee6e705610b693a24fa'}
+  - {seq: 0, role: markers, filename: assets/KR6q0167_000-X.markers.yaml, hash: 'sha256:de3ee7aee0c625a0f5c4fbbc7b6c2665ccafa2c01156ec3476b69b75a10d9436'}
   - {seq: 1, role: markers, filename: assets/KR6q0167_001-X.markers.yaml, hash: 'sha256:3c760a854074e42376b40a01602afc134122baec51a9b3d4e60016bade65cd7f'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6q0167_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1279-A 五宗原序
@@ -135,4 +135,4 @@ table_of_contents:
   label: No. 1279-B 濟宗頌語(附)
   type: mulu
   level: 1
-hash: sha256:5d695e357d88041babf38060f23d3aa4bce9c8873810790b8b0ae0123b397c63
+hash: sha256:2c3fe684734cc163786936125a42b6c667d735fb944e60a1ef5771a9b157b009

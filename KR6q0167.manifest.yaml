@@ -21,17 +21,17 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0167_000.yaml, hash: 'sha256:9a1bccede22dea71ce9a97c99e68e3cfd88ddd638c43ec346353d7eab5d7938b'}
+  - {seq: 0, filename: KR6q0167_000.yaml, hash: 'sha256:75f1d631c65f44d192b96581e9d83b7c507f352e7f11cc304547de2c32d75d89'}
   - {seq: 1, filename: KR6q0167_001.yaml, hash: 'sha256:ef4d902433dd05966d5a2b05bb690024774622de1b06bceed0649473cd5bf328'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0167_000.markers.yaml, hash: 'sha256:6f85eb6e97598e875f0d25652b7fa70f1ae60f602a41005f80cae169853c8365'}
+  - {seq: 0, role: markers, filename: assets/KR6q0167_000.markers.yaml, hash: 'sha256:b459f69694c59223203366bb3c58631c3d0711750bc061cad0119cb7c42d8ccc'}
   - {seq: 1, role: markers, filename: assets/KR6q0167_001.markers.yaml, hash: 'sha256:6383abffd12e39ebe38f592fe94c6b84ede1e92580a71e76a54acebb29ed9c2a'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6q0167_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1279-A 五宗原序
@@ -137,7 +137,7 @@ table_of_contents:
   label: No. 1279-B 濟宗頌語(附)
   type: mulu
   level: 1
-hash: sha256:976ec109e9e897049b7dfe587f284132f5915289364650b439568338f3d7a358
+hash: sha256:38aa928b566d0c9956f49a35aba5a52d7a2bbfaa2bc1e7aebc758151173e21b4
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
